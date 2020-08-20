@@ -1,7 +1,7 @@
 # No-Polls API
 This is the Lumen backend for No-Polls. It is not required, as No-Polls will use the public backend on my server located at: [api-no-polls.noahdhollowell.co.uk](https://api-no-polls.noahdhollowell.co.uk)  
 
-> View the [frontend](https://github.co.uk/NoahNok/No-Polls)
+> View the [frontend](https://github.com/NoahNok/No-Polls)
 
 ## Installation
 1. Clone the repo
